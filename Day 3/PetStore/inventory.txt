@@ -1,0 +1,17 @@
+1,Food,Dog Food,High-quality dry dog food,15.49,50,BrandA,Dry,Dog
+2,Accessory,Cat Collar,Cat collar with bell,5.99,20,Small,Blue
+3,Cage,Parrot Cage,Large parrot cage with toys,120.00,5,24x24x36,Wire
+4,Aquarium,50-gallon Fish Tank,50-gallon fish tank with stand,200.00,3,50,Rectangle
+5,Toy,Hedgehog Wheel,Exercise wheel for hedgehogs,12.49,8,Plastic,6months+
+6,Food,Cat Food,Nutritional wet cat food,10.99,100,BrandB,Wet,Cat
+7,Accessory,Dog Leash,Durable dog leash,10.99,50,Medium,Red
+8,Cage,Rabbit Hutch,Spacious rabbit hutch,89.99,10,36x24x24,Wood
+9,Aquarium,20-gallon Fish Tank,20-gallon fish tank,99.99,7,20,Circle
+10,Toy,Dog Chew Toy,Rubber chew toy for dogs,8.99,150,Rubber,3months+
+11,Food,Bird Seed,Organic bird seed mix,12.99,200,BrandC,Dry,Bird
+12,Accessory,Fish Net,Small fish net,3.49,40,Small,Green
+13,Cage,Reptile Terrarium,Glass terrarium for reptiles,150.00,4,48x24x24,Glass
+14,Aquarium,10-gallon Fish Tank,10-gallon fish tank,59.99,10,10,Rectangle
+15,Toy,Cat Teaser,Interactive cat teaser toy,4.99,100,Plastic,1month+
+16,Cage,cage,cage to trap the rats,39,3,12x12x12,metal
+17,Aquarium,df,ert,23,2,12,circular
