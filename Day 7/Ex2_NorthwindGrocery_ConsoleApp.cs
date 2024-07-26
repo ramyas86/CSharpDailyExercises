@@ -65,7 +65,10 @@ namespace NorthwindGrocery_ConsoleApp
                 {
                     Console.WriteLine($"{reader["CategoryID"]} - {reader["CategoryName"]}");
                 }
+                connection.Close();
             }
+
+            
         }
 
         static void ListProductsByCategory()
@@ -90,7 +93,9 @@ namespace NorthwindGrocery_ConsoleApp
                 {
                     Console.WriteLine($"{reader["ProductID"]} - {reader["ProductName"]}");
                 }
+                connection.Close();
             }
+           
         }
 
         static void ListProductsByPriceRange()
@@ -117,7 +122,9 @@ namespace NorthwindGrocery_ConsoleApp
                 {
                     Console.WriteLine($"{reader["ProductID"]} - {reader["ProductName"]}");
                 }
+                connection.Close();
             }
+            
         }
 
         static void ListSuppliers()
@@ -134,7 +141,9 @@ namespace NorthwindGrocery_ConsoleApp
                 {
                     Console.WriteLine($"{reader["SupplierID"]} - {reader["CompanyName"]}");
                 }
+                connection.Close();
             }
+           
         }
 
         static void ListProductsBySupplier()
@@ -158,7 +167,9 @@ namespace NorthwindGrocery_ConsoleApp
                 {
                     Console.WriteLine($"{reader["ProductID"]} - {reader["ProductName"]}");
                 }
+                connection.Close();
             }
+            
         }
     }
 }
