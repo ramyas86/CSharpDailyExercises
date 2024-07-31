@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace LocalGym.Models
 {
@@ -11,6 +12,7 @@ namespace LocalGym.Models
         public string? Email { get; set; }
         public DateTime JoinDate { get; set; }
 
+        [JsonIgnore]
         public ICollection<Session>? Sessions { get; set; }
     }
 }

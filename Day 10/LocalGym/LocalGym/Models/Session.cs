@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.Json.Serialization;
 
 namespace LocalGym.Models
 {
@@ -10,7 +11,10 @@ namespace LocalGym.Models
         public DateTime SessionDate { get; set; }
         public int Duration { get; set; }
 
+        [JsonIgnore]
         public Member? Member { get; set; }
+
+        [JsonIgnore]
         public Trainer? Trainer { get; set; }
     }
 }

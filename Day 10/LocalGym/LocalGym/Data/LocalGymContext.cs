@@ -13,6 +13,7 @@ namespace LocalGym.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+
             modelBuilder.Entity<Member>()
                 .HasMany(m => m.Sessions)
                 .WithOne(s => s.Member)

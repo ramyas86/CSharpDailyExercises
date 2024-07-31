@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Users\\ramya\\Workspace\\LocalGym\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|d:\\users\\ramya\\workspace\\localgym\\localgym\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|d:\\users\\ramya\\workspace\\localgym\\localgym\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|d:\\users\\ramya\\workspace\\localgym\\localgym\\repositories\\localgymrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,40 +15,40 @@
       "RelativeMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\repositories\\ilocalgymrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|d:\\users\\ramya\\workspace\\localgym\\localgym\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|d:\\users\\ramya\\workspace\\localgym\\localgym\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|d:\\users\\ramya\\workspace\\localgym\\localgym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|d:\\users\\ramya\\workspace\\localgym\\localgym\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|d:\\users\\ramya\\workspace\\localgym\\localgym\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|d:\\users\\ramya\\workspace\\localgym\\localgym\\data\\localgymcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\data\\localgymcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|d:\\users\\ramya\\workspace\\localgym\\localgym\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|d:\\users\\ramya\\workspace\\localgym\\localgym\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|d:\\users\\ramya\\workspace\\localgym\\localgym\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|d:\\users\\ramya\\workspace\\localgym\\localgym\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|d:\\users\\ramya\\workspace\\localgym\\localgym\\data\\localgymcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\data\\localgymcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|d:\\users\\ramya\\workspace\\localgym\\localgym\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|d:\\users\\ramya\\workspace\\localgym\\localgym\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|d:\\users\\ramya\\workspace\\localgym\\localgym\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|d:\\users\\ramya\\workspace\\localgym\\localgym\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCDD6D9-93D3-49E1-A870-DBF2EEE8FDE4}|LocalGym\\LocalGym.csproj|solutionrelative:localgym\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,21 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SessionsController.cs",
-              "DocumentMoniker": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Controllers\\SessionsController.cs",
-              "RelativeDocumentMoniker": "LocalGym\\Controllers\\SessionsController.cs",
-              "ToolTip": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Controllers\\SessionsController.cs",
-              "RelativeToolTip": "LocalGym\\Controllers\\SessionsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T06:18:41.608Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -81,7 +68,7 @@
               "RelativeDocumentMoniker": "LocalGym\\Repositories\\LocalGymRepository.cs",
               "ToolTip": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Repositories\\LocalGymRepository.cs",
               "RelativeToolTip": "LocalGym\\Repositories\\LocalGymRepository.cs",
-              "ViewState": "AQIAAGgAAAAAAAAAAAAgwHkAAAAAAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAqwCYAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T16:30:38.914Z",
               "EditorCaption": ""
@@ -94,102 +81,79 @@
               "RelativeDocumentMoniker": "LocalGym\\Repositories\\ILocalGymRepository.cs",
               "ToolTip": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Repositories\\ILocalGymRepository.cs",
               "RelativeToolTip": "LocalGym\\Repositories\\ILocalGymRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBYAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T16:30:07.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "LocalGym\\Data\\DbInitializer.cs",
-              "ToolTip": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "LocalGym\\Data\\DbInitializer.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAqwAwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T16:26:34.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\appsettings.json",
-              "RelativeDocumentMoniker": "LocalGym\\appsettings.json",
-              "ToolTip": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\appsettings.json",
-              "RelativeToolTip": "LocalGym\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-30T16:20:34.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LocalGymContext.cs",
-              "DocumentMoniker": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Data\\LocalGymContext.cs",
-              "RelativeDocumentMoniker": "LocalGym\\Data\\LocalGymContext.cs",
-              "ToolTip": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Data\\LocalGymContext.cs",
-              "RelativeToolTip": "LocalGym\\Data\\LocalGymContext.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T16:19:13.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "Session.cs",
               "DocumentMoniker": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Models\\Session.cs",
               "RelativeDocumentMoniker": "LocalGym\\Models\\Session.cs",
               "ToolTip": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Models\\Session.cs",
               "RelativeToolTip": "LocalGym\\Models\\Session.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAhwA0AAAAXAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAIA1wA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T16:18:00.473Z"
+              "WhenOpened": "2024-07-30T16:18:00.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Trainer.cs",
-              "DocumentMoniker": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Models\\Trainer.cs",
-              "RelativeDocumentMoniker": "LocalGym\\Models\\Trainer.cs",
-              "ToolTip": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Models\\Trainer.cs",
-              "RelativeToolTip": "LocalGym\\Models\\Trainer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T16:17:36.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "Member.cs",
               "DocumentMoniker": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Models\\Member.cs",
               "RelativeDocumentMoniker": "LocalGym\\Models\\Member.cs",
               "ToolTip": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Models\\Member.cs",
               "RelativeToolTip": "LocalGym\\Models\\Member.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAhwA0AAAApAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAIA1wA4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T16:15:21.945Z"
+              "WhenOpened": "2024-07-30T16:15:21.945Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Models\\Trainer.cs",
+              "RelativeDocumentMoniker": "LocalGym\\Models\\Trainer.cs",
+              "ToolTip": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Models\\Trainer.cs",
+              "RelativeToolTip": "LocalGym\\Models\\Trainer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA1wA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:17:36.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Program.cs",
               "RelativeDocumentMoniker": "LocalGym\\Program.cs",
               "ToolTip": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Program.cs",
               "RelativeToolTip": "LocalGym\\Program.cs",
-              "ViewState": "AQIAAAUAAADAZmZmZuYcwBoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T16:14:33.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "SessionsController.cs",
+              "DocumentMoniker": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Controllers\\SessionsController.cs",
+              "RelativeDocumentMoniker": "LocalGym\\Controllers\\SessionsController.cs",
+              "ToolTip": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Controllers\\SessionsController.cs",
+              "RelativeToolTip": "LocalGym\\Controllers\\SessionsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:18:41.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "TrainersController.cs",
               "DocumentMoniker": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Controllers\\TrainersController.cs",
               "RelativeDocumentMoniker": "LocalGym\\Controllers\\TrainersController.cs",
@@ -203,12 +167,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "LocalGymContext.cs",
+              "DocumentMoniker": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Data\\LocalGymContext.cs",
+              "RelativeDocumentMoniker": "LocalGym\\Data\\LocalGymContext.cs",
+              "ToolTip": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Data\\LocalGymContext.cs",
+              "RelativeToolTip": "LocalGym\\Data\\LocalGymContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:19:13.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "LocalGym\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "LocalGym\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:26:34.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\appsettings.json",
+              "RelativeDocumentMoniker": "LocalGym\\appsettings.json",
+              "ToolTip": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\appsettings.json",
+              "RelativeToolTip": "LocalGym\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T16:20:34.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "MembersController.cs",
               "DocumentMoniker": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Controllers\\MembersController.cs",
               "RelativeDocumentMoniker": "LocalGym\\Controllers\\MembersController.cs",
               "ToolTip": "D:\\Users\\ramya\\Workspace\\LocalGym\\LocalGym\\Controllers\\MembersController.cs",
               "RelativeToolTip": "LocalGym\\Controllers\\MembersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAABBAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAjwDQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T16:32:25.162Z",
               "EditorCaption": ""
