@@ -43,5 +43,24 @@ namespace LocalGym.Controllers
             var sessions = await _repository.GetSessionsForTrainerAsync(id);
             return Ok(sessions);
         }
+
+        [HttpPost]
+        public async Task<ActionResult<Trainer>> CreateTrainer(Trainer trainer)
+        {
+            var createdTrainer = await _repository.CreateTrainerAsync(trainer);
+            return CreatedAtAction(nameof(GetTrainer), new { id = createdTrainer.TrainerId }, createdTrainer);
+        }
+
+        [HttpPut("{id}")]
+        public async Task<ActionResult<Trainer>> UpdateTrainer(int id, Trainer trainer)
+        {
+            var updatedTrainer = await _repository.UpdateTrainerAsync(id, trainer);
+            if (updatedTrainer == null)
+            {
+                return NotFound();
+            }
+
+            return Ok(updatedTrainer);
+        }
     }
 }
