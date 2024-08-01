@@ -134,3 +134,4 @@ D:\Users\ramya\Workspace\LocalGym\LocalGym\obj\Debug\net8.0\refint\LocalGym.dll
 D:\Users\ramya\Workspace\LocalGym\LocalGym\obj\Debug\net8.0\LocalGym.pdb
 D:\Users\ramya\Workspace\LocalGym\LocalGym\obj\Debug\net8.0\LocalGym.genruntimeconfig.cache
 D:\Users\ramya\Workspace\LocalGym\LocalGym\obj\Debug\net8.0\ref\LocalGym.dll
+D:\Users\ramya\Workspace\LocalGym\LocalGym\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -3,11 +3,13 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using LocalGym.Models;
 using LocalGym.Repositories;
+using Microsoft.AspNetCore.Authorization;
 
 namespace LocalGym.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class MembersController : ControllerBase
     {
         private readonly ILocalGymRepository _repository;

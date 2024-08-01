@@ -1,13 +1,12 @@
-﻿using System;
-using System.Text.Json.Serialization;
+﻿using System.Text.Json.Serialization;
 
 namespace LocalGym.Models
 {
     public class Session
     {
         public int SessionId { get; set; }
-        public int MemberId { get; set; }
-        public int TrainerId { get; set; }
+        public int? MemberId { get; set; }
+        public int? TrainerId { get; set; }
         public DateTime SessionDate { get; set; }
         public int Duration { get; set; }
 

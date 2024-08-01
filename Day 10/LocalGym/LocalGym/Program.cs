@@ -1,18 +1,41 @@
-using Microsoft.EntityFrameworkCore;
+using LocalGym;
 using LocalGym.Data;
 using LocalGym.Repositories;
-using System.Text.Json.Serialization;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers()
-       .AddJsonOptions(options =>
-       {
-           options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve;
-           options.JsonSerializerOptions.DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingNull;
-       });
+builder.Services.AddAuthentication(x =>
+{
+    x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+    x.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
+})
+.AddJwtBearer(options =>
+{
+    options.IncludeErrorDetails = true;
+    options.RequireHttpsMetadata = false;
+    options.SaveToken = true;
+    options.UseSecurityTokenValidators = true;
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateIssuerSigningKey = true,
+        ValidateLifetime = true,
+        ValidIssuer = builder.Configuration["Jwt:Issuer"],
+        ValidAudience = builder.Configuration["Jwt:Audience"],
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"])),
+        RequireExpirationTime = false
+    };
+});
+builder.Services.AddControllers();
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -23,7 +46,7 @@ builder.Services.AddDbContext<LocalGymContext>(options =>
 
 // Register the repository
 builder.Services.AddScoped<ILocalGymRepository, LocalGymRepository>();
-
+builder.Services.AddSingleton<TokenService>();
 var app = builder.Build();
 
 // Seed the database
@@ -42,7 +65,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
